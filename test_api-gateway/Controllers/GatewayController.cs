@@ -10,7 +10,7 @@ namespace test_api_gateway.Controllers
         public async Task<IActionResult> GetAllPersons()
         {
             
-            return Ok("Всё работает!");
+            return Ok("Подождите и скоро заработает!");
         }
     }
 }
